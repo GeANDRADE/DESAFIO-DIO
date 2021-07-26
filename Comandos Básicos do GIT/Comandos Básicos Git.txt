@@ -1,0 +1,27 @@
+# Comandos Básicos
+
+## Para não esquecer!
+
+###### Vale lembrar que os parenteses () são para destacar os comandos.
+
+#### É interessante ter as anotaçãos básicas para ajudar no processo de entendimento do Git, sempre dando uma olhada e complementando.
+
+- (dir) Listar e entender em qual local se está. Obs No Linux é usado (ls);
+
+- (cd) Navega entre as pastas;
+
+- (cd..) Para voltar/retroceder em uma pasta;
+
+- (cls) / (Ctrl L) limpar o terminal;
+
+- (Tecla Tab) auto completa, ou seja inicia-se as iniciais do comando ou pasta e clica na mesma qua auto irá completar, ajuda a ganhar tempo e praticipade;
+
+- Comando (del) deleta arquivos de uma pasta enquanto o (rmdir) remove o repositório;
+
+- (mkdir) cria uma pasta/repositório;
+
+- (echo) printa no terminal uma frase/texto;
+
+- o simbolo (>) redireciona o fluxo. 
+
+  
