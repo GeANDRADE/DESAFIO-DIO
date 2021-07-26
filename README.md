@@ -13,6 +13,6 @@
 
 [Sintaxe Básica MARKDOWN](https://www.markdownguide.org/)
 
-[Editor com a linguagem MARKDOWN)(https://typora.io/)
+[Editor com a linguagem MARKDOWN](https://typora.io/)
 
 
